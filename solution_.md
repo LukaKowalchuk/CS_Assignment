@@ -10,4 +10,4 @@ Zeigler DW, Wang CC, Yoast RA, Dickinson BD, McCaffree MA, Robinowitz CB, Sterli
 
 students is in blue x1000, beer consumed in orange x1000 hL, the years are on the x-axis
 
-I observe a linear rise in both the amount of students and the amount of beer consumed over the years. The trajectory of these lines appears to be highly similar, which is indicative of a strong correlation. One can not be fully certain without an objective correlation analysis.
+I observe a rise in both the amount of students and the amount of beer consumed over the years. Both trajectories of these lines appear to be increasing with the years, which is indicative of a correlation. One can not be fully certain without an objective correlation analysis.
